@@ -3,7 +3,7 @@
 pkgname=uaiso-theme-orion-plasma
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Package them Orion"
+pkgdesc="Package theme Plasma Orion"
 arch=('any')
 url="https://github.com/UaiSO21/$pkgname"
 license=('GPL3')
