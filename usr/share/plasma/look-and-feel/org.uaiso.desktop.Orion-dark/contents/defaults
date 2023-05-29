@@ -2,7 +2,7 @@
 cursorTheme=Vimix-cursors
 
 [kdeglobals][General]
-ColorScheme=ChromeOSDark
+ColorScheme=OrionDark
 
 [kdeglobals][Icons]
 Theme=Tela-dark
@@ -20,7 +20,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__ChromeOS-dark
+theme=__aurorae__svg__Orion-dark
 
 [plasmarc][Theme]
-name=ChromeOS
+name=Orion
