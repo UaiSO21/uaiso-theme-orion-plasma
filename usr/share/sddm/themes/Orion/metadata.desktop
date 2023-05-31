@@ -1,5 +1,6 @@
 [SddmGreeterTheme]
 Name=Orion
+<<<<<<< HEAD
 Description=UaiSO Orion Theme
 Author=Maurício de Lima
 Copyright=(c) 2023, Maurício de Lima
@@ -7,6 +8,14 @@ License=CC-BY-SA
 Type=sddm-theme
 Version=0.1.0
 #Website=https://github.com/vinceliuice/ChromeOS-kde
+=======
+Description=Orion Theme
+Author=Vince Liuice
+Copyright=(c) 2019, Vince Liuice
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1.0
+>>>>>>> fec8e94 (Ajuste no tema do SSDM)
 Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
